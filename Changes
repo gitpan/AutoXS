@@ -1,5 +1,8 @@
 Revision history for Perl extension AutoXS and AutoXS::Accessor.
 
+0.04  Sun May  5 20:31 2008
+        - Add missing dependency on B::Generate. (Thanks Vincent Pit)
+
 0.03  Fri Apr  4 17:09 2008
         - Depend on B::Utils 0.05_06.
         - The (getter) Accessor plugin now extracts the hash key name
